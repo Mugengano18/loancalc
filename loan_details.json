@@ -1,0 +1,11 @@
+[
+  {
+    "amount": 2000000.0,
+    "interestRate": 2.0,
+    "term": 3,
+    "borrower": {
+      "name": "ff",
+      "address": "dd"
+    }
+  }
+]
